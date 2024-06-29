@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394536759740",
+    "project_id": "otpsignin-3c61c",
+    "storage_bucket": "otpsignin-3c61c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394536759740:android:14511898d7baa152ad3bb9",
+        "android_client_info": {
+          "package_name": "com.example.otpsignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEW5kZUQz1Hk7VTjcQy4uk-QckuqxpLOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
