@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:overScrollMode="never"
     android:scrollbars="none"
-    android:background="#F6EFB0"
+    android:background="@drawable/background"
     tools:context=".otpverification">
 
 
